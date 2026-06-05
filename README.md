@@ -6,6 +6,14 @@ Name: Suhayel Uddin
 
 Student ID: 134018258
 
+\## Assignment Information
+
+
+
+Course Code: MAI201  
+
+Date: 2026-06-04
+
 
 
 \# mlops-git-assignment-suhayel-uddin
@@ -45,4 +53,14 @@ Before using this repository, ensure you have:
 
 
 &#x20;  git clone https://github.com/suhayel1/mlops-git-assignment-suhayel-uddin.git
+
+
+
+\## Course Information
+
+
+
+Course Code: MAI201
+
+Date: 2026-06-04
 
