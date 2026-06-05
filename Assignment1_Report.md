@@ -19,7 +19,7 @@ GitHub Repository URL: https://github.com/suhayel1/mlops-git-assignment-suhayel-
 
 The screenshot below shows the repository network graph, including the feature branches and merges into the develop branch.
 
-screenshots/network-graph.png
+![](screenshots/network-graph.png)
 
 ---
 
@@ -27,8 +27,8 @@ screenshots/network-graph.png
 
 The screenshot below shows the branch protection rules configured for the main branch.
 
-screenshots/branch-protection-1.png
-screenshots/branch-protection-2.png
+![](screenshots/branch-protection-1.png)
+![](screenshots/branch-protection-2.png)
 
 ---
 
