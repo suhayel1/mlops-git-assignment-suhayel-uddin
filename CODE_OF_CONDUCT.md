@@ -64,3 +64,13 @@ Instances of unacceptable behavior may be reported to the repository owner.
 
 This Code of Conduct applies within all project spaces.
 
+
+
+\## Attribution
+
+
+
+This Code of Conduct is adapted from common open-source community guidelines.
+
+
+
