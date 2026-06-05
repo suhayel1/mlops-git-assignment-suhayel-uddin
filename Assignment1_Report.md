@@ -27,7 +27,8 @@ screenshots/network-graph.png
 
 The screenshot below shows the branch protection rules configured for the main branch.
 
-screenshots/branch-protection.png
+screenshots/branch-protection-1.png
+screenshots/branch-protection-2.png
 
 ---
 
