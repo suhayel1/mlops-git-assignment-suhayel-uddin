@@ -36,3 +36,13 @@ Before using this repository, ensure you have:
 
 &#x20;  git clone https://github.com/suhayel1/mlops-git-assignment-suhayel-uddin.git
 
+
+
+\## Course Information
+
+
+
+Course Code: MAI201  
+
+Date: 2026-06-04
+
