@@ -35,7 +35,7 @@ screenshots/branch-protection-2.png
 ## 3. Git Log Output
 
 The following command was used to show the commit history:
-
+```bash
 git log --oneline --graph
 
 * 6303128 (HEAD -> develop, origin/develop) Add course information to README
@@ -58,7 +58,7 @@ git log --oneline --graph
 | * 378adfc Add project description to README
 |/
 * 0dea65e (origin/main, origin/HEAD, main) Initial commit
-
+```
 ---
 
 ## 4. Reflection on Merge Conflict Resolution
