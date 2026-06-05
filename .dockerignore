@@ -29,4 +29,4 @@ Thumbs.db
 htmlcov/
 
 # Jupyter
-.ipynb_checkpoints/
+.ipynb_checkpoints/"\n# Build artifacts\ndist/\nbuild/\n*.egg-info/" 
