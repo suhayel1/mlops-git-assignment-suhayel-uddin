@@ -1,3 +1,13 @@
+\## Assignment Information
+
+
+
+Course Code: MAI201  
+
+Date: 2026-06-04
+
+
+
 \# mlops-git-assignment-suhayel-uddin
 
 
@@ -42,7 +52,7 @@ Before using this repository, ensure you have:
 
 
 
-Course Code: MAI201  
+Course Code: MAI201
 
 Date: 2026-06-04
 
